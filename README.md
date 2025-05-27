@@ -10,8 +10,8 @@ I'm a **passionate 23-year-old Computer Engineer** currently pursuing my Master'
 
 - 🎓 **Master's Student** in Automation and Computer Engineering (LM-32)
 - 🌍 **Erasmus+ Exchange** at Universiteit Gent (Feb-July 2025)
-- 🔬 **Research Focus**: AI systems on cloud platforms (AWS, Google Cloud, Azure)
-- 💡 **Specialization**: Sentiment Analysis in healthcare and marketing
+<!--  🔬 **Research Focus**: AI systems on cloud platforms (AWS, Google Cloud, Azure)
+- 💡 **Specialization**: Sentiment Analysis in healthcare and marketing -->
 - 📍 **Location**: Teramo, Italy
 - 📧 **Contact**: waldisab2001@gmail.com
 
