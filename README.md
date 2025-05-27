@@ -10,10 +10,11 @@ I'm a **passionate 23-year-old Computer Engineer** currently pursuing my Master'
 
 - 🎓 **Master's Student** in Automation and Computer Engineering (LM-32)
 - 🌍 **Erasmus+ Exchange** at Universiteit Gent (Feb-July 2025)
-<!--  🔬 **Research Focus**: AI systems on cloud platforms (AWS, Google Cloud, Azure)
-- 💡 **Specialization**: Sentiment Analysis in healthcare and marketing -->
 - 📍 **Location**: Teramo, Italy
 - 📧 **Contact**: waldisab2001@gmail.com
+<!--  🔬 **Research Focus**: AI systems on cloud platforms (AWS, Google Cloud, Azure)
+- 💡 **Specialization**: Sentiment Analysis in healthcare and marketing -->
+
 
 ---
 
@@ -50,7 +51,7 @@ I'm a **passionate 23-year-old Computer Engineer** currently pursuing my Master'
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
