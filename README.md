@@ -62,21 +62,8 @@ I'm a **passionate 23-year-old Computer Engineer** currently pursuing my Master'
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Walter-Di-Sabatino&show_icons=true&theme=radical&include_all_commits=true&count_private=true&exclude_repo=Autonomous-Car"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Di-Sabatino&layout=compact&langs_count=8&theme=radical&exclude_repo=Autonomous-Car"/>
 </div>
----
 
-## 🎯 Current Focus & Research
-
-### 🔬 Research Project: Cloud-Based AI Systems Comparison
-Currently working on a comprehensive study comparing AI systems across major cloud platforms:
-- **AWS**: Comprehend, SageMaker, Textract
-- **Google Cloud**: Natural Language AI, AutoML
-- **Microsoft Azure**: Cognitive Services, Machine Learning Studio
-
-**Focus Area**: Sentiment Analysis applications in:
-- 🏥 **Healthcare**: Patient feedback analysis, medical sentiment tracking
-- 📈 **Marketing**: Brand sentiment monitoring, customer opinion analysis
-
----
+<!-- ---
 
 ## 🏆 Featured Projects
 
@@ -86,8 +73,8 @@ Currently working on a comprehensive study comparing AI systems across major clo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Walter-Di-Sabatino&repo=your-web-project&theme=radical)](https://github.com/Walter-Di-Sabatino/your-web-project)
 
 </div>
-
----
+-->
+<!--  ---
 
 ## 🌟 Core Competencies
 
@@ -188,4 +175,5 @@ Currently working on a comprehensive study comparing AI systems across major clo
 
 ---
 
-⭐️ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
+⭐️ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**-->
+
