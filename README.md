@@ -63,6 +63,11 @@ I'm a **passionate 23-year-old Computer Engineer** currently pursuing my Master'
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Di-Sabatino&layout=compact&langs_count=8&theme=radical&exclude_repo=Autonomous-Car"/>
 </div>
 
+---
+
+## ✨ Final Thoughts
+
+I'm always eager to learn new technologies and tackle challenging projects. Feel free to connect with me if you want to collaborate, share ideas, or just chat about tech and innovation. Let’s build the future together!
 <!-- ---
 
 ## 🏆 Featured Projects
