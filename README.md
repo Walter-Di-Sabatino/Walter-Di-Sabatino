@@ -12,7 +12,7 @@ I'm a **passionate 23-year-old Computer Engineer** currently pursuing my Master'
 - 🌍 **Erasmus+ Exchange** at Universiteit Gent (Feb-July 2025)
 - 📍 **Location**: Teramo, Italy
 - 📧 **Contact**: waldisab2001@gmail.com
-- 🔗 **LinkedIn**: [linkedin.com/in/walter-di-sabatino/](https://www.linkedin.com/in/walter-di-sabatino/)
+- 🔗 **LinkedIn**: [linkedin.com/in/walter-di-sabatino/]([https://www.linkedin.com/in/walter-di-sabatino/](https://www.linkedin.com/in/walter-di-sabatino-155960252/)
 <!--  🔬 **Research Focus**: AI systems on cloud platforms (AWS, Google Cloud, Azure)
 - 💡 **Specialization**: Sentiment Analysis in healthcare and marketing -->
 
