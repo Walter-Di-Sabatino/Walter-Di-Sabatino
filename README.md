@@ -64,15 +64,6 @@ I'm a **passionate 23-year-old Computer Engineer** currently pursuing my Master'
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Walter-Di-Sabatino&show_icons=true&theme=radical&include_all_commits=true&count_private=true&exclude_repo=Autonomous-Car"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Di-Sabatino&layout=compact&langs_count=8&theme=radical&exclude_repo=Autonomous-Car"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walter-Di-Sabatino&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Walter-Di-Sabatino&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ## 🎯 Current Focus & Research
