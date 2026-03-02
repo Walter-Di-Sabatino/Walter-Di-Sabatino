@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate 23-year-old Computer Engineer** currently pursuing my Master's degree in Automation and Computer Engineering at Università Politecnica delle Marche. I'm deeply fascinated by the intersection of artificial intelligence, software development, and real-world problem solving.
+I'm a **passionate 24-year-old Computer Engineer** graduate with a Master’s degree in Automation and Computer Engineering from Università Politecnica delle Marche. I'm deeply fascinated by the intersection of artificial intelligence, software development, and real-world problem solving.
 
 - 🎓 **Master's Student** in Automation and Computer Engineering (LM-32)
 - 🌍 **Erasmus+ Exchange** at Universiteit Gent (Feb-July 2025)
