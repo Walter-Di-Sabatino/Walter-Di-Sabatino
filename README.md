@@ -8,7 +8,7 @@
 
 I'm a **passionate 24-year-old Computer Engineer** graduate with a Master’s degree in Automation and Computer Engineering from Università Politecnica delle Marche. I'm deeply fascinated by the intersection of artificial intelligence, software development, and real-world problem solving.
 
-- 🎓 **Master's Student** in Automation and Computer Engineering (LM-32)
+- 🎓 **Master's graduate** in Automation and Computer Engineering (LM-32)
 - 🌍 **Erasmus+ Exchange** at Universiteit Gent (Feb-July 2025)
 - 📍 **Location**: Teramo, Italy
 - 📧 **Contact**: waldisab2001@gmail.com
